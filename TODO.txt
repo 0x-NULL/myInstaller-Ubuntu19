@@ -1,0 +1,55 @@
+install:
+
+eEYE Retina		https://sourceforge.net/projects/retinacommunity/
+IBM AppScan		https://www.ibm.com/support/pages/ibm-security-appscan-standard-903-now-available
+InSSIDer		https://www.metageek.com/products/inssider/
+FindDomains		https://code.google.com/archive/p/finddomains/downloads
+sslyze			https://github.com/nabla-c0d3/sslyze
+Networx			https://www.softperfect.com/download/files/networx_linux_amd64.deb
+
+jexboss 		https://github.com/joaomatosf/jexboss
+hostapd-wpe		https://github.com/OpenSecurityResearch/hostapd-wpe
+
+dnschef
+EyeWitness
+nfspy
+responder
+TheHarvester
+mimikatz
+
+kdbg
+kicat
+pcredz
+skipfish
+sslscan
+
+To fix:
+apt2.sh (uniqlite)
+KingPhisher (freeze on ./install.sh)
+sqliv
+
+
+Stuff I haven't figured out how to install yet
+
+pwntools
+metagoofil (python myparser missing?)
+serenity		http://www.thucydides.info/#/
+selenium		https://www.seleniumhq.org/download/
+hostmap			https://github.com/jekil/hostmap
+SNMPEnum
+
+
+Links to fix
+
+apt2
+beef
+dotdotpwn
+fern-wifi-cracker
+fluxion
+ghost-phisher
+king-phisher
+nullinux
+sqliv
+xsser
+xsstrike
+

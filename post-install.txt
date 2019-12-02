@@ -1,0 +1,15 @@
+nano ~/.bashrc
+
+# Add these to ~/.bashrc
+
+# My permanent aliases
+#alias setoolkit='python ~/PenTestTools/set/setoolkit' # doesn't really work
+#alias beef='. ~/PenTestTools/beef/beef' # doesn't work
+alias dirbuster='java -jar ~/PenTestTools/DirBuster/DirBuster-0.12.jar'
+#alias dotdotpwn='perl ~/PenTestTools/dotdotpwn/dotdotpwn.pl' # doesn't work
+#alias fern='sudo python ~/PenTestTools/fern-wifi-cracker/Fern-Wifi-Cracker/execute.py # only works in bash
+#alias ghost-phisher='sudo python ~/PenTestTools/ghost-phisher/Ghost-Phisher/ghost.py # only works in bash
+alias turbolist3r='python ~/PenTestTools/Turbolist3r/turbolist3r.py'
+alias sqliv='python ~/PenTestTools/sqliv/sqliv.py'
+
+. ~/.bashrc

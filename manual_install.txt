@@ -1,0 +1,14 @@
+Maltego			https://www.paterva.com/downloads.php
+Burp Suite		https://portswigger.net/burp/communitydownload
+Jython			https://www.jython.org/download
+HexorBase		https://github.com/savio-code/downloads/raw/master/hexorbase_1.0_all.deb
+dirbuster		https://sourceforge.net/projects/dirbuster/
+Packet Tracer		https://www.netacad.com/portal/resources/browse/d9b86acc-2832-4c58-8c67-90aca3851054
+Nessus			https://www.tenable.com/downloads/nessus
+Arachni			https://www.arachni-scanner.com/download/
+NexPose			https://www.rapid7.com/info/nexpose-trial/thank-you/
+DetectItEasy		http://ntinfo.biz/index.html
+bloodhound		https://github.com/BloodHoundAD/BloodHound/releases
+exploitpack		http://exploitpack.com/download.html
+ImmunityCanvas		https://www.immunityinc.com/products/canvas/#
+Infection Monkey	https://github.com/guardicore/monkey/releases
